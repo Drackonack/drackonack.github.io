@@ -5,4 +5,4 @@ I've applied for a Masters in Machine Learning and Artificial Intelligence with 
 In prepration I've made this site and started learning Python.
 
 - [Exercism](https://exercism.org/profiles/Drackonack)
-- [linkedIn](https://www.linkedin.com/in/brian-drake-0bb22b1b3/)
+- [linkedIn]([https://www.linkedin.com/in/drackonack)
