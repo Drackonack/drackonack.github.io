@@ -2,12 +2,12 @@ remote_theme: pages-themes/minimal
 title: Brian Drake
 logo: assets/img/Fire dancing.jpg
 description: <hr>
-Hello, I'm Drake
+  Hello, I'm Drake
 
-I've applied for a Masters in Machine Learning and Artificial Intelligence with UofA.
+  I've applied for a Masters in Machine Learning and Artificial Intelligence with UofA.
 
-In prepration I've made this site and started learning Python.
-<hr>
-- [Exercism](https://exercism.org/profiles/Drackonack)
-- [linkedIn](https://www.linkedin.com/in/drackonack)
-<hr>
+  In prepration I've made this site and started learning Python.
+  <hr>
+  - [Exercism](https://exercism.org/profiles/Drackonack)
+  - [linkedIn](https://www.linkedin.com/in/drackonack)
+  <hr>
