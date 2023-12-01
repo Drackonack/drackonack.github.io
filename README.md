@@ -11,7 +11,7 @@
 
 I went around the app store and looked for a few apps that all taught python. I installed about 5 of them, trying each for a day. Until I found one:
 
-<a style="display: flex; justify-content: center; background-color: #262845;" href="https://play.google.com/store/apps/details?id=com.getmimo&hl=en&gl=US" title="Mimo!">
+<a style="display: flex; justify-content: center; background-color: #262845;" href="https://mimo.org/" title="Mimo!">
     <img src="assets/img/Mimo.png" alt="Mimo!" />
 </a>
 
