@@ -7,6 +7,17 @@
 - Monday.com 
 - even Excel databasing 💀
 <hr>
+<h3>Aaaand that's it for Mimo's Python Path</h3>
+
+At this stage I've completed all 14 modules of Python with Mimo. I am also about 28% of the way through the Python track on Exercism. 
+
+<a style="display: flex; justify-content: center;" href="" title="Python Certificate">
+    <img src="assets/img/Python Certificate.png" alt="Python Certificate" width="30%" height="30%"/>
+</a>
+<p style="text-align: center;"><i>It came with a little certificate!</i></p>
+This definitely feels like a solid introduction to programming and a good way to gain some background for my upcoming degree. It's also nice that everything so far was free.
+
+<hr>
 <h3>I have been accepted into Postgraduate AI & ML!</h3>
 
 I have been accepted into a Graduate Certificate of Artificial Intelligence and Machine Learning with the University of Adelaide.
