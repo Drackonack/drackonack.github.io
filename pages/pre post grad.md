@@ -2,11 +2,7 @@
 layout: default
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ The lead up to my postgraduate work }}</h1>
-
-<p class="view">by {{ page.author | default: site.author }}</p>
-
+<h1>The lead up to my postgraduate work</h1>
 <h3>Learning Python with no background in programming</h3>
 
 I went around the app store and looked for a few apps that all taught python. I installed about 5 of them, trying each for a day. Until I found one:
@@ -42,7 +38,4 @@ At this stage I've completed all 14 modules of Python with Mimo. I am also about
 This definitely feels like a solid introduction to programming and a good way to gain some background for my upcoming degree. It's also nice that everything so far was free.
 
 <hr>
-
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
+<small>Last updated: 14Dec23</small>
