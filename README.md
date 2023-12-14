@@ -7,4 +7,4 @@
 - Monday.com 
 - even Excel databasing 💀
 <hr>
-<a href="pages/pre post grad.md">The lead up to my postgraduate work</a>
+<a href="pages/pre post grad.html">The lead up to my postgraduate work</a>
