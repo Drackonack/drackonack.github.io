@@ -1,10 +1,16 @@
 remote_theme: pages-themes/minimal
 title: Brian Drake
+author: Brian Drake
+hide_author: true
 logo: assets/img/Fire dancing.jpg
-description: Hello, I'm Drake
-  <p>I am a commencing student of Artificial Intelligence and Machine Learning.</p>
-  <p>In preparation, I've made this site and started learning Python.</p>
-  <hr>
-  <p><a href="https://exercism.org/profiles/Drackonack">Exercism</a></p>
-  <p><a href="https://www.linkedin.com/in/drackonack">LinkedIn</a></p>
+description: |
+  Hello, I'm Drake
   
+  I am a commencing student of Artificial Intelligence and Machine Learning.
+
+  In preparation, I've made this site and started learning Python.
+links:
+  - title: Exercism
+    url: https://exercism.org/profiles/Drackonack
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/drackonack
