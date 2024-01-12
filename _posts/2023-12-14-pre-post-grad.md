@@ -44,10 +44,21 @@ This definitely feels like a solid introduction to programming and a good way to
 ---
 
 ### 50 down and another 20 to go!
-I set myself the challenge of solving at least 50% of Exercism's Python coding challenges before heading off for uni. At first this seemed quite daunting but its slowly coming together. The trick is to put the problem down and come back to it with fresh eyes... or eventually after many hours and days asking a friend for help!
+I set myself the challenge of solving at least 50% of Exercism's Python coding challenges before heading off for uni. At first this seemed quite daunting but its slowly coming together. The trick is to put the problem down and come back to it with fresh eyes... or eventually after many hours and days, asking a friend for help!
 
 <a style="display: flex; justify-content: center;" title="50 Exercism challenges completed">
     <img src="https://drackonack.github.io/assets/img/Exercism 50.png" alt="50 Exercism challenges completed">
 </a>
 
 If i get through this goal with some time before classes begin, I was thinking of either spending some time in blender or maybe making a D&D 5e character sheet in Python. 
+
+---
+
+### 50% of Exercism's Python track
+With only 17 days until uni starts back up and I have just now completed my 50% completion target! 
+
+<a style="display: flex; justify-content: center;" title="50% of the way through python on Exercism">
+    <img src="https://drackonack.github.io/assets/img/50% python on exercism.png" alt="50% of the way through python on Exercism">
+</a>
+
+It is very satisfying to be able to set yourself a goal and achieve it.
