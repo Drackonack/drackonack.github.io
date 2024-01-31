@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Preparing for my postgraduate work
+title: Preparing for my Post Graduate Work
 ---
 
-### Learning Python with no background in programming
+### Learning Python with no Background in Programming
 I went around the app store and looked for a few apps that all taught python. I installed about 5 of them, trying each for a day. Until I found one:
 
 <a style="display: flex; justify-content: center; background-color: #262845;" href="https://mimo.org/" title="Mimo!">
