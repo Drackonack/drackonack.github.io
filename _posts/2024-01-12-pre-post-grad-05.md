@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 50% Of The Challenges For Exercsim
+title: 50% Of The Challenges For Exercism
 ---
 
 ### 50% of Exercism's Python track

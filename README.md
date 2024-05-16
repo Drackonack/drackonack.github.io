@@ -1,6 +1,5 @@
 ---
-permalink: index.html
-layout: list
+layout: default
 ---
 
 ### My foray into software packages and now languages:

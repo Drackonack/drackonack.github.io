@@ -16,4 +16,7 @@ links:
     url: https://huggingface.co/Drackonack
   - title: LinkedIn
     url: https://www.linkedin.com/in/drackonack
-    
+paginate: 6
+paginate_path: "/posts/:num"
+plugins:
+  - jekyll-paginate

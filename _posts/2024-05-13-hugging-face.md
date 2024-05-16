@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 5 Flower Classifier CNN
+pinned: true
 ---
 
 ## Introducing my 5-Flower Classifier on Hugging Face!
