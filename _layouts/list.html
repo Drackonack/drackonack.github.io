@@ -5,7 +5,20 @@ layout: default
 {{ content }}
 
 <hr />
+<h3>Pinned Posts</h3>
 
+<ul style="margin: 0; padding: 0;list-style: none;">
+  {% for pinned in site.posts %}
+    <li style="margin: 20px; padding: 0;">
+      <h3 style="margin-bottom: 0;">
+        <a href="{{ pinned.url }}">{{ pinned.title }}</a>
+      </h3>
+      <small>{{ pinned.date | date: "%-d %B %Y" }}</small>
+    </li>
+  {% endfor %}
+</ul>
+
+<hr />
 <h3>The Latest</h3>
 
 <ul style="margin: 0; padding: 0;list-style: none;">
