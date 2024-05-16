@@ -1,5 +1,5 @@
 ---
-layout: pinned
+layout: post
 title: 5 Flower Classifier CNN
 ---
 
