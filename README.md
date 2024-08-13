@@ -2,11 +2,12 @@
 layout: default
 ---
 
-### My foray into software packages and now languages:
-- Python
-- Watson LIMS
-- Softmax Pro
-- Gyrolab xPlore
-- MS Projects
-- Monday.com 
-- even Excel databasing 💀
+### What I've tinkered with:
+**🐍 Python**: My go-to for automation and data  
+**🧪 Watson LIMS**: Managing lab data with ease  
+**🔬 Softmax Pro**: For ELISA data analysis  
+**💻 Gyrolab xPlore**: Automated immunoassays  
+**📅 MS Projects**: Keeping projects on track  
+**✅ Monday.com**: Streamlining team workflows  
+**📊 Excel**: A corporate databasing tool 💀  
+
