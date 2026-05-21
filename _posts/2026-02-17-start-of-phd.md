@@ -8,7 +8,7 @@ It feels weird being back at uni for a PhD. It's honestly almost like starting m
 
 Monday was my first day and I have had my first meeting with my supervisor, given papers to read, been allocated a desk, and some online modules to complete. So, I'm writing this post in a break to soak it all in haha.
 
-To help with balancing my life I have unfortunately had to quit my role at Barosa Eye Clinic. I really had a good time! I loved my coworkers and engaging with patients. Maybe when the PhD is done I'll go back and be a research engineer full time...
+To help with balancing my life I have unfortunately had to quit my role at Barossa Eye Clinic. I really had a good time! I loved my coworkers and engaging with patients. Maybe when the PhD is done I'll go back and be a research engineer full time...
 
 With AI Camp I am now teaching an additional class at St Peter's College. The class there have been really engaging and provide a different experience for me than other age groups and classrooms. I have also been developing a workshop to give provide hands on AI skills development to NDIS clients via CBS. This has been really rewarding work and I'm excited to deliver that after this week!
 
